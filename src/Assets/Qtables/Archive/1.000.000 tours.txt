@@ -1,0 +1,26 @@
+# A finis par aucun mort entre les deux pendant 5h
+
+lowHP_lowStamina,Attaquer,84,44564
+lowHP_lowStamina,Defendre,114,9579
+lowHP_lowStamina,Esquiver,75,15092
+lowHP_lowStamina,Heal,49,67786
+lowHP_highStamina,Attaquer,93,83228
+lowHP_highStamina,Defendre,116,0226
+lowHP_highStamina,Esquiver,96,64459
+lowHP_highStamina,Heal,77,23475
+midHP_lowStamina,Attaquer,94,97992
+midHP_lowStamina,Defendre,130,8742
+midHP_lowStamina,Esquiver,89,30746
+midHP_lowStamina,Heal,105,3402
+midHP_highStamina,Attaquer,105,5474
+midHP_highStamina,Defendre,105,8587
+midHP_highStamina,Esquiver,105,1563
+midHP_highStamina,Heal,124,924
+highHP_lowStamina,Attaquer,109,1453
+highHP_lowStamina,Defendre,100,2675
+highHP_lowStamina,Esquiver,102,421
+highHP_lowStamina,Heal,127,1208
+highHP_highStamina,Attaquer,112,2138
+highHP_highStamina,Defendre,109,9811
+highHP_highStamina,Esquiver,118,979
+highHP_highStamina,Heal,129,6573
